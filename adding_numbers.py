@@ -14,7 +14,7 @@ def main():
     # input
     add_loop_string = input("Enter how many numbers you want to add: ")
 
-    #input & process
+    # input & process
     try:
 
         add_loop = int(add_loop_string)
@@ -40,4 +40,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
